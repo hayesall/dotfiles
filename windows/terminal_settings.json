@@ -42,10 +42,10 @@
             {
                 "face": "Fira Code"
             },
-            "opacity": 95,
+            "opacity": 100,
             "padding": "0",
             "startingDirectory": null,
-            "useAcrylic": true
+            "useAcrylic": false
         },
         "list":
         [
