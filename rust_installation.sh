@@ -6,4 +6,4 @@ sh rustup-init.sh -y
 
 rm -f rustup-init.sh
 
-source "$HOME/.carg/env"
+source "$HOME/.cargo/env"
