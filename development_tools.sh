@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-apt update
+sudo apt update
 
-apt upgrade -y
+sudo apt upgrade -y
 
-apt install -y build-essential gcc g++ gfortran python3-dev make cmake pkg-config autoconf
+sudo apt install -y build-essential gcc g++ gfortran python3-dev make cmake pkg-config autoconf
