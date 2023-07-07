@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-sudo apt install zsh
+sudo apt install -y zsh
 
 # First-time setup for changing shell to `zsh`
 # Requires password
